@@ -1,7 +1,7 @@
 #ifndef THREAD_POOL_H
 #define THREAD_POOL_H
 #include <vector>
-
+#include <pthread.h>
 
 class thread_pool //cannot have mixed class even though its a void*
 {

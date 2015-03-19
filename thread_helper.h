@@ -1,6 +1,6 @@
 #ifndef THREAD_HELPER_H_INCLUDED
 #define THREAD_HELPER_H_INCLUDED
-
+#include <stdio.h>
 template <class I>
 struct thread_helper
 {
